@@ -1,0 +1,16 @@
+numpy==1.26.4
+pandas==2.1.4
+matplotlib==3.7.5
+pymatreader==1.0.0
+scipy==1.11.4
+torch==2.3.1
+torchvision==0.18.1
+torchinfo==1.8.0
+pytorch-lightning==2.4.0
+torchmetrics==1.4.2
+scikit-learn==1.4.2
+timm==1.0.9
+tqdm==4.66.4
+mlflow==2.15.0
+mne==1.8.0
+pycaret==3.3.2
